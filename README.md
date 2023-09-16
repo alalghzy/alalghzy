@@ -9,9 +9,9 @@
 <p><img class="center" src="https://github-readme-stats.vercel.app/api?username=alalghzy&show_icons=true&theme=gotham" alt="stats" />&nbsp; &nbsp;<img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alalghzy&layout=compact&theme=gotham" alt="toplang" /></p>
   
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=90"/><hr>
 </p>
-<hr>
+
 
 <!---
 alalghzy/alalghzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
