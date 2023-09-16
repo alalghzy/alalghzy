@@ -1,5 +1,5 @@
 # I'm Rafif Alghazy 👻
-><q>A machine that turns coffee into code</q>
+><q>A machine that turns coffee into code🍵</q> 
 
 ## About Me 👀
 `Sekarang` menjadi mahasiswa dari Program Studi Informatika, Universitas Bengkulu.
