@@ -6,7 +6,7 @@
 Tertarik dengan dunia pemrograman.
 <br><br>
 <h1> <img src="https://www.iconsdb.com/icons/download/white/github-9-64.png" width="35" height="35"> GitHub Stats</h1>
-<p><img align="" src="https://github-readme-stats.vercel.app/api?username=alalghzy&show_icons=true&locale=en" alt="alalzghy" /> <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=alalghzy&show_icons=true&locale=en&layout=compact" alt="alalghzy" /> <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=alalghzy&theme=city_light&hide_border=true" alt="alalzghy" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api?username=alalghzy&show_icons=true&locale=en" alt="alalzghy" /> <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=alalghzy&show_icons=true&locale=en&layout=compact" alt="alalghzy" /></p>
 <hr>
 
 <!---
