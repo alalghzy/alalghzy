@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=90"/><hr>
 </p>
+<img src="[https://github.com/alalghzy/alalghzy/assets/65043099/a3dc8ac2-4587-4ca1-9750-e5c831e2c243](https://gist.github.com/s-shivangi/7b54ec766cf446cafeb83882b590174d/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif)&color=gradient&height=70&section=footer&width=90"/>
 
 
 <!---
