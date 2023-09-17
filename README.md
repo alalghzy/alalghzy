@@ -10,8 +10,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=90"/><hr>
 </p>
-<img src="https://github.com/alalghzy/alalghzy/blob/f156383a48a8fed76c3482019cd5728a89cca159/nyan-cat.gif&color=gradient&height=100&section=footer&width=auto"/>
-![nyan-cat](https://github.com/alalghzy/crud-sederhana/assets/65043099/2062b8c5-8a7a-41eb-9ef0-21bcc734f502)
 
 <!---
 alalghzy/alalghzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
