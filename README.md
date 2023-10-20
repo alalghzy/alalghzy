@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=90"/><hr>
 </p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alalghzy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 <!---
 alalghzy/alalghzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
