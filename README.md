@@ -2,7 +2,6 @@
 ><q>A machine that turns coffee into code🍵</q> 
 
 ## About Me 👀
-- `Sekarang` menjadi mahasiswa dari Program Studi Informatika, Universitas Bengkulu.
 - Tertarik dengan tumbuhan.
 <br><br>
 <h1> <img src="https://www.iconsdb.com/icons/download/white/github-9-64.png" width="35" height="35"> GitHub Stats</h1>
